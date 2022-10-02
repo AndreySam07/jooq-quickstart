@@ -62,7 +62,7 @@
                 <configuration>
                     <jdbc>
                         <driver>org.postgresql.Driver</driver>
-                        <url>jdbc:postgresql://localhost/postgres</url>
+                        <url>jdbc:postgresql://45.155.207.91:5432/postgres</url>
                         <user>postgres</user>
                         <password>sakila</password>
                     </jdbc>
